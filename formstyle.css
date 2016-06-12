@@ -1,0 +1,159 @@
+body{
+	background-image:
+	background-color:;
+	margin-left: auto;
+	margin-right: auto;
+	max-width:;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	vertical-align: top;
+	background-color: #1d1d1d;
+}
+
+section{
+	width: 49%;
+	display: inline-block;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	padding-top: 20px;
+}
+
+nav{
+width: 45%;
+	display: inline-block;
+}
+
+ul{
+	padding: auto;	
+	margin: auto;
+	display: inline-block;
+	
+}
+
+ul li {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 30px;
+    list-style-type: none;
+    margin-right: 0px;
+    padding: 0px;
+    background-color:;
+    color: #f2f2f2;
+    padding-right: 20px;
+    display: inline-block;
+}
+
+li a:link { text-decoration: none;
+			color: #f2f2f2;
+}
+li a:visited { text-decoration: none;
+			color: #f2f2f2;
+}
+li a:hover { text-decoration: underline;
+			color: #f2f2f2;
+}
+li a:active { text-decoration: underline;
+			color: #f2f2f2;
+}
+
+#form-wrap{
+	width: 750px;
+	border: solid 5px #1d1d1d;
+	border-bottom: solid 20px #1d1d1d;
+	background-color: #fff;
+	margin: 50px auto;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+form{
+	width: 600px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+label{
+	font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+	display: block;
+	margin-top: 12px ;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+input{
+	width: 600px;
+	margin-top: 0px ;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+textarea{
+	width: 600px;
+	margin-top: 0px ;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 4px;
+	padding-bottom: 0px;
+}
+
+fieldset{
+	border:none;
+	background-color: #fff;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.labelone{
+	margin-top: 20px ; 
+}
+
+.btn{
+	width: 100px;
+	border: solid 2px #1d1d1d;
+	background-color: #fff;
+	margin-top: 5px ;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.btn:hover{
+	color: #fff;
+	background-color: #1d1d1d;
+}
+
+form h4 {
+	font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+	margin-top: 10px ;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;  
+}
